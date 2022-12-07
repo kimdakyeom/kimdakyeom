@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kimdakyeom&fontAlign=70&rotate=13&fontAlignY=25&desc=💻full%20stack%20developer💻&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kimdakyeom&fontAlign=70&rotate=13&fontAlignY=25&desc=💻backend%20developer💻&descAlign=70.&descAlignY=44)
 
 ![kimdakyeom's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdakyeom&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdk9912)](https://solved.ac/kdk9912/)
