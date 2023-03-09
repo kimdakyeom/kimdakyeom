@@ -1,5 +1,5 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=kimdakyeom&fontAlign=70&rotate=13&fontAlignY=25&desc=💻backend%20developer💻&descAlign=70.&descAlignY=44)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdk9912)](https://solved.ac/kdk9912/)
+
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
